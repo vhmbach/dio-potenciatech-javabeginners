@@ -1,3 +1,4 @@
+package edu.vitor.segundasemana;
 public class MinhaClasse2 {
     public static void main(String[] args) {
         String meuNome = "Vitor";
